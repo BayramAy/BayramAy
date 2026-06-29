@@ -1,16 +1,27 @@
-## Hi there 👋
+# Merhaba, Ben Bayram Enes! 👋
 
-<!--
-**BayramAy/BayramAy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Afyon Kocatepe Üniversitesi'nde Elektrik-Elektronik Mühendisliği 1. sınıf öğrencisiyim. Gömülü sistemler, donanım/yazılım entegrasyonu ve C++ ile nesne yönelimli programlama (OOP) üzerine kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 İlgi Alanları & Çalışmalarım
+
+- 🛠️ **Gömülü Sistemler:** ESP32, Arduino mimarileri ve SPI/I2C haberleşme protokolleri.
+- 💻 **Yazılım Geliştirme:** C++ (OOP ve Hafıza Yönetimi) ve Python.
+- 📐 **Donanım & Tasarım:** Devre simülasyonları, SolidWorks ve Blender ile prototip kasa modelleme.
+
+---
+
+## 📈 Öne Çıkan Projelerim
+
+* **Merkezi Batarya Takip Paneli (Python & ADB):** Akıllı saat, telefon ve bilgisayarın şarj seviyelerini soket programlama ile anlık gösteren masaüstü paneli.
+* **C++ Market Otomasyonu Simülasyonu:** Gelişmiş veri yapıları ve OOP mimarisiyle yazılmış yönetim simülasyonu.
+* **Akıllı Su Şişesi (ESP32):** Yük hücresi (load cell) sensörü kullanarak su tüketimini takip eden donanım projesi.
+
+---
+
+## 🛠️ Teknolojiler ve Araçlar
+
+- **Diller:** C, C++, Python
+- **Araçlar:** VS Code, Git, GitHub, ADB
+- **Tasarım:** SolidWorks, Blender
