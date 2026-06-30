@@ -1,4 +1,4 @@
-# Merhaba, Ben Bayram Enes! 👋
+# Merhaba, Ben Bayram! 👋
 
 Afyon Kocatepe Üniversitesi'nde Elektrik-Elektronik Mühendisliği 1. sınıf öğrencisiyim. Gömülü sistemler, donanım/yazılım entegrasyonu ve C++ ile nesne yönelimli programlama (OOP) üzerine kendimi geliştiriyorum.
 
